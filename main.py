@@ -2,7 +2,6 @@
 
 # Press Shift+F10 to execute it or replace it with your code.
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
-import numpy as np
 import pandas as pd
 import matplotlib.pyplot as mat
 from sklearn.model_selection import train_test_split
